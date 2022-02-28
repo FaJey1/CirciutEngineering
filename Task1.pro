@@ -28,15 +28,15 @@ clauses
     	parent("Larisa", "Natalia").
     	parent("Victor", "Natalia").
     	
-    	parent("Oleg", "Vika").
+    	/*parent("Oleg", "Vika").
     	parent("Vera", "Vika").
     	parent("Oleg", "Egor").
-    	parent("Vera", "Egor").
+    	parent("Vera", "Egor").*/
     	
     	man("Oleg").
     	man("Ivan").
     	man("Victor").
-    	man("Egor").
+    	/*man("Egor").*/
     	
     	woman("Anna").
     	woman("Nina").
@@ -44,7 +44,7 @@ clauses
     	woman("Alla").
     	woman("Larisa").
     	woman("Natalia").
-    	woman("Vika").
+    	/*woman("Vika").*/
     	
     	married("Ivan", "Anna").
     	married("Oleg", "Vera").
